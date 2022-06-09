@@ -1,0 +1,55 @@
+.error-box {
+    text-align: center;
+    font-size: large;
+    color: red;
+}
+
+.ant-switch {
+    float: right;
+    margin-top: 10px;
+    border: 1px solid rgb(119 117 117 / 24%);
+}
+
+.ant-switch-checked {
+    background: rgba(243, 243, 4, 0.84);
+}
+
+.ant-switch-handle {
+    top: 1px;
+}
+
+.anticon-bulb {
+    color: #808080b3;
+}
+
+.anticon-star {
+    color: rgba(243, 243, 4, 0.84);
+}
+
+.header-title {
+    font-size: 1.875em;
+    font-weight: 200;
+}
+
+.mobility-list {
+    overflow: auto;
+    max-height: calc(100vh - 64px);
+}
+
+.list-item {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.list-item:hover {
+    background-color: white;
+}
+
+.item-name {
+    width: 100%;
+}
+
+.item-name .anticon {
+    float: right;
+}
+
